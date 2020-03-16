@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.min.css";
+body {
+    background-color: rgb(193, 241, 250);
+}
+
+.blackBorderBox {
+    border-style: solid;
+    border-color: black;
+}
+
+.blackBorderRadiusBox {
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-style: solid;
+    border-color: black;
+}
